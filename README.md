@@ -1,9 +1,9 @@
-#Customer Churn Analysis & Revenue Insights
+# Customer Churn Analysis & Revenue Insights
 
-##Objective
+## Objective
 Analyze customer churn behavior for a subscription-based business and identify key drivers impacting customer retention and revenue.
 
-##Tools & Technologies
+## Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib)
 
@@ -13,10 +13,10 @@ Power BI
 
 Excel / CSV
 
-##Dataset
+## Dataset
 Telco Customer Churn Dataset (7,000+ customer records)
 
-##Key Analysis Steps
+## Key Analysis Steps
 
 Cleaned and transformed raw customer data using Python
 
@@ -28,7 +28,7 @@ Conducted SQL analysis to validate insights
 
 Built an interactive Power BI dashboard with slicers and KPIs
 
-##Key Insights
+## Key Insights
 
 Month-to-month contracts have the highest churn rate
 
@@ -38,7 +38,7 @@ High monthly charges increase churn risk
 
 Value-added services like tech support reduce churn significantly
 
-##Business Recommendations
+## Business Recommendations
 
 Encourage long-term contracts with incentives
 
